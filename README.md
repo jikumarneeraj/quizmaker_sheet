@@ -47,6 +47,8 @@ function doPost(e) {
 7. Who has access: **Anyone**
 8. Click Deploy → copy the **Web app URL**
 
+https://script.google.com/macros/s/AKfycbziVs91VVq_VfzMwqdCKpe0owHFbdJF3ow5RDa85Qy3ki1tPuofyamHELN4NCdkN2c2/exec
+
 ## Deploy on Render
 
 1. Push this folder to GitHub
